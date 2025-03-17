@@ -1,0 +1,74 @@
+{
+  "informacion_climatica": [
+    {
+      "titulo": "Cambio Climático Global",
+      "descripcion": "El cambio climático se refiere a los cambios a largo plazo en las temperaturas y los patrones climáticos en la Tierra, principalmente provocados por las actividades humanas como la quema de combustibles fósiles."
+    },
+    {
+      "titulo": "Impacto en los Ecosistemas",
+      "descripcion": "El cambio climático está alterando los ecosistemas globales, provocando la desaparición de especies y la alteración de hábitats naturales. La acidificación de los océanos y el aumento de las temperaturas están afectando a la biodiversidad."
+    },
+    {
+      "titulo": "Desglaciación y Aumento del Nivel del Mar",
+      "descripcion": "El deshielo de los glaciares y las capas de hielo en los polos está contribuyendo al aumento del nivel del mar. Esto pone en riesgo a comunidades costeras y causa inundaciones en áreas bajas, como islas y ciudades costeras."
+    },
+    {
+      "titulo": "Impacto en la Agricultura",
+      "descripcion": "El cambio climático está afectando los patrones de lluvia, lo que reduce la producción de alimentos en varias partes del mundo. Las sequías más prolongadas y las tormentas más intensas afectan la seguridad alimentaria global."
+    },
+    {
+      "titulo": "Emisiones de Gases de Efecto Invernadero",
+      "descripcion": "Las emisiones de gases de efecto invernadero como el dióxido de carbono (CO2), el metano (CH4) y el óxido nitroso (N2O) están acelerando el calentamiento global, lo que contribuye al cambio climático a una tasa alarmante."
+    },
+    {
+      "titulo": "Energías Renovables y Soluciones Sostenibles",
+      "descripcion": "Una de las principales soluciones para mitigar el cambio climático es la transición a fuentes de energía renovable como la solar, eólica y geotérmica. Estas fuentes de energía son mucho menos contaminantes y tienen un menor impacto ambiental."
+    },
+    {
+      "titulo": "Acción Global contra el Cambio Climático",
+      "descripcion": "El Acuerdo de París, firmado en 2015, establece objetivos internacionales para reducir las emisiones de gases de efecto invernadero y limitar el calentamiento global a menos de 2°C por encima de los niveles preindustriales."
+    },
+    {
+      "titulo": "Adaptación al Cambio Climático",
+      "descripcion": "Las comunidades y países deben adaptarse a los efectos inevitables del cambio climático mediante la construcción de infraestructuras resistentes, la protección de las zonas costeras y la preparación ante desastres naturales."
+    },
+    {
+      "titulo": "Educación y Concienciación Ambiental",
+      "descripcion": "La educación sobre el cambio climático es crucial para cambiar los comportamientos y actitudes de las personas. La conciencia ambiental puede llevar a políticas públicas más sostenibles y a decisiones más responsables por parte de las personas."
+    },
+    {
+      "titulo": "Reducción de la Huella de Carbono",
+      "descripcion": "Reducir nuestra huella de carbono es esencial para combatir el cambio climático. Esto incluye el uso más eficiente de la energía, el fomento del transporte público, la reducción del consumo de carne y la adopción de hábitos más sostenibles."
+    },
+    
+    {
+        "consejos": [
+          {
+            "titulo": "Reduce tu consumo de energía",
+            "descripcion": "Apagar luces y dispositivos reduce el consumo energético.",
+            "imagen": "imagenes/consumo-energia.jpg"
+          },
+          {
+            "titulo": "Usa transporte público o vehículos eléctricos",
+            "descripcion": "Usar bicicletas, caminar o vehículos eléctricos ayuda al medio ambiente.",
+            "imagen": "imagenes/transporte-publico.jpg"
+          },
+          {
+            "titulo": "Recicla y reutiliza",
+            "descripcion": "Separar residuos y reutilizar materiales reduce la contaminación.",
+            "imagen": "imagenes/reciclar.jpg"
+          },
+          {
+            "titulo": "Ahorra agua",
+            "descripcion": "Cerrar llaves y usar menos agua en la ducha hace la diferencia.",
+            "imagen": "imagenes/ahorro-agua.jpg"
+          },
+          {
+            "titulo": "Planta árboles",
+            "descripcion": "Los árboles absorben CO₂ y ayudan a combatir el cambio climático.",
+            "imagen": "imagenes/plantar-arboles.jpg"
+          }
+        ]
+      }
+  ]
+}
